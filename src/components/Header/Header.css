@@ -1,0 +1,26 @@
+
+
+nav a{
+    margin-left:  20px;
+}
+
+
+
+.text{
+    text-align: center;
+}
+
+.button{
+    color: wheat;
+    background-color: black;
+    padding: 10px;
+}
+
+
+nav a.active{
+    text-decoration: underline;
+
+background-color:yellow;
+
+
+}
