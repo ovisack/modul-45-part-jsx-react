@@ -1,5 +1,5 @@
-import './App'
-import App from './App'
+
+import './App.css'
 import Home from './Home';
 import Contact from './components/Contact/contact';
 import About from './components/About/About';
@@ -17,7 +17,7 @@ import Posts from './components/Posts/Posts';
 import PostDetails from './components/PostDetails/PostDetails';
 import ErrorPage from './components/ErrorPage/ErrorPage';
 
-const  router= createBrowserRouter([
+const  router= createBrowserRouter([ 
 
   {
 path:'/',
@@ -33,12 +33,12 @@ children:[
   },
   {
 path: '/users',
-loader:()=> fetch('https://jsonplaceholder.typicode.com/users'),
+loader:()=> fetch('/public/dada.json'),
 element: <Users></Users>
   },
   {
     path: '/user/:userId',
-    loader:({params})=> fetch(`https://jsonplaceholder.typicode.com/users/${params.userId}`),
+    loader:({params})=> fetch(`/public/dada.json/${params.userId}`),
     element:<UserDetails></UserDetails>
   },
   {

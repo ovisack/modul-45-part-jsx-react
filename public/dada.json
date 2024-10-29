@@ -1,0 +1,93 @@
+[
+    {
+      "id":1,
+      "name": "Viral Kohli",
+      "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+      "country": "India",
+      "role": "All-Rounder",
+      "batting_style": "Left-Hand Bat",
+      "price": "$1500000",
+      "rating": 4.8
+    },
+    {
+      "id":2,
+      "name": "Shawn Tendu",
+      "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+      "country": "India",
+      "role": "Batsman",
+      "batting_style": "Right-Hand Bat",
+      "price": "$1800000",
+      "rating": 4.9
+    },
+    { "id":3,
+      "name": "David Warrier",
+      "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+      "country": "Australia",
+      "role": "Batsman",
+      "batting_style": "Left-Hand Bat",
+      "price": "$1700000",
+      "rating": 4.7
+    },
+    {
+      "id":4,
+      "name": "Chris Gale",
+      "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+      "country": "West Indies",
+      "role": "Batsman",
+      "batting_style": "Left-Hand Bat",
+      "price": "$1400000",
+      "rating": 4.6
+    },
+    {
+      
+          "id":9,
+          "name": "Glenn Maxxer",
+          "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+          "country": "Australia",
+          "role": "All-Rounder",
+          "batting_style": "Right-Hand Bat",
+          "price": "$1700000",
+          "rating": 4.7
+        
+    },
+    {
+      "id":6,
+      "name": "AB De Villan",
+      "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+      "country": "South Africa",
+      "role": "Batsman",
+      "batting_style": "Right-Hand Bat",
+      "price": "$2000000",
+      "rating": 4.9
+    },
+    {
+      "id":7,
+      "name": "Ben Stroke",
+      "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+      "country": "England",
+      "role": "All-Rounder",
+      "batting_style": "Left-Hand Bat",
+      "price": "$1600000",
+      "rating": 4.8
+    },
+    {
+      "id":9,
+      "name": "Glenn Maxxer",
+      "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+      "country": "Australia",
+      "role": "All-Rounder",
+      "batting_style": "Right-Hand Bat",
+      "price": "$1700000",
+      "rating": 4.7
+    },
+    {
+      "id":9,
+      "name": "Glenn Maxxer",
+      "img":"https://i.ibb.co.com/8xpHHyk/images-1.jpg",
+      "country": "Australia",
+      "role": "All-Rounder",
+      "batting_style": "Right-Hand Bat",
+      "price": "$1700000",
+      "rating": 4.7
+    }
+  ]

@@ -8,7 +8,7 @@ import './Header.css'
 
 const Header = () => {
     return (
-        <div className='text'>
+        <div className='text style'>
 
             <h2>Navbar</h2>
             <nav className='text'>
